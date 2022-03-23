@@ -1,0 +1,8 @@
+.joke {
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    height: 20em;
+    padding: 0px 5em;
+}

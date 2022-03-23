@@ -1,0 +1,26 @@
+.btn {
+    -webkit-border-radius: 18px;
+    -moz-border-radius: 18px;
+    border-radius: 18px;
+    color: #000000;
+    font-family: Courier New;
+    font-size: 23px;
+    font-weight: 900;
+    padding: 12px;
+    background-color: #FFFFFF;
+    -webkit-box-shadow: -1px -1px 42px 10px #FFFFFF;
+    -moz-box-shadow: -1px -1px 42px 10px #FFFFFF;
+    box-shadow: -1px -1px 42px 10px #FFFFFF;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+}
+ 
+.btn:hover {
+    background: #FFFFFF;
+    -webkit-border-radius: 18px;
+    -moz-border-radius: 18px;
+    border-radius: 18px;
+    text-decoration: none;
+ }
